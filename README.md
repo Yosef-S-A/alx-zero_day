@@ -1,1 +1,3 @@
-*Creating and setting up git and github*# alx-zero_day
+#alx-Zero_day
+
+*Creating and setting up git and github*
